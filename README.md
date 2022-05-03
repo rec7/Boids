@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/filesystemmm/Boids">
-    <img src="Boids.png" alt="Logo" width="80" height="80" border-radius"30">
+    <img src="Boids.png" alt="Logo" width="80" height="80" border-radius"30px">
   </a>
 
 <h3 align="center">Boids</h3>
@@ -34,7 +34,7 @@
     Boids is an artificial life program which simulates the flocking behaviour of birds. As with many artificial life simulations, Boids is a prime example of emergent behaviour. Boids must follow a set of simple rules which are as follows: seperation(Steer to avoid crowding local flockmates), alignment(Steer towards the average heading of local flocks) and cohesion(Steer towards the average position (centre of mass) of local flockmates).
     Of course more complex rules like object avoidence and goal seeking can be added but I wished to keep this project simple.
     <br />
-    <a href="https://github.com/filesystemmm/Boids"><strong>Explore the docs »</strong></a>
+    <a href="https://en.wikipedia.org/wiki/Boids"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -50,8 +50,8 @@
 ### Built With
 
 * [Python](https://python.org/)
-* [P5PY.py](https://github.com/p5py/p5)
-* [NumpPy.py](https://numpy.org/)
+* [P5PY](https://github.com/p5py/p5)
+* [NumpPy](https://numpy.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
