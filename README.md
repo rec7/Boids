@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/filesystemmm/Boids">
-    <img src="Boids.png" alt="Logo" width="80" height="80">
+    <img src="Boids.png" alt="Logo" width="80" height="80" border-radius"30">
   </a>
 
 <h3 align="center">Boids</h3>
@@ -96,7 +96,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/filesystemmm/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/filesystemmm/Boids.svg?style=for-the-badge
 [contributors-url]: https://github.com/filesystemmm/Boids/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
